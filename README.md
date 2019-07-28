@@ -21,7 +21,7 @@ sqlalchemy or any sql toolkit for python
 
 * Fork and clone this repo.
 ```shell
-git clone 
+git clone https://github.com/mort8Q/Data-Analyst-Position-Task.git
 ```
 
 * In a Jupyter notebook:
@@ -31,4 +31,8 @@ git clone
 
     - Use pandas and numpy to analyse the data and provide us with deeper insights about the data.
     - Use matplotlib and any preferred visualization library to create some plots. 
+    - Make sure you run your all the cells before submission.
 
+## Submission 
+* Commit your work and push your work to the forked repo. 
+* Submit the repo URL

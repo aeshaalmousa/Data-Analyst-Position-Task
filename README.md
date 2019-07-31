@@ -27,7 +27,7 @@ git clone https://github.com/mort8Q/Data-Analyst-Position-Task.git
 * In a Jupyter notebook:
     - Use the dataset and your sql toolkit to join the tables and provide us with some insights.
 
-    > ⚠ **Note**: You can only use SQL to join tables and at least use two types of joins**.
+    > ⚠ **Note**: You can only use SQL to join tables and at least use two types of joins.
 
     - Use pandas and numpy to analyse the data and provide us with deeper insights about the data.
     - Use matplotlib and any preferred visualization library to create some plots. 
@@ -35,4 +35,6 @@ git clone https://github.com/mort8Q/Data-Analyst-Position-Task.git
 
 ## Submission 
 * Commit your work and push your work to the forked repo. 
-* Submit the repo URL
+* Submit the repo URL through this [form](https://airtable.com/shry6SlH9Y5djtJ3F).
+    > ⚠ **Note**: Make sure the the submitted repo is public.
+
